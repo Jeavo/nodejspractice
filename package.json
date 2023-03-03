@@ -1,6 +1,6 @@
 {
-	"author": "Ryan Jeavons",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Ryan Jeavons",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
